@@ -48,4 +48,5 @@ public class BaseEntity implements Serializable {
 		return this.id == null;
 	}
 	/* Test Comment */
+	/* Test comment 1 */
 }
